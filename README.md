@@ -15,11 +15,11 @@ DB schema evolves. How do you:
 * Keep a table in the database with the metadata.
 * Create script that checks the metadata table and runs the pending DDL.
 
-####Advantages:
+#### Advantages:
 
 * Can you adapt it to your custom needs/requirements.
 
-####Disadvantages:
+#### Disadvantages:
 
 * Need a bit of time to implement the logic.
 * Fewer features than the existing solutions.
