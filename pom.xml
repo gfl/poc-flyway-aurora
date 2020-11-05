@@ -33,6 +33,7 @@
           <url>jdbc:postgresql://localhost:5432/test</url>
           <user>postgres</user>
           <password>example</password>
+          <baselineVersion>2.0</baselineVersion>
         </configuration>
         <dependencies>
           <dependency>
